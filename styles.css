@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.btn-custom {
+    margin: 5px;
+}
+#button-1 { background-color: blue; color: white; }
+#button-3 { background-color: green; color: white; }
+#button-4 { background-color: red; color: white; }
+#button-5 { background-color: gold; color: black; width: 100%; }
+#button-6 { background-color: skyblue; color: black; }
+#button-8 { color: blue; text-decoration: underline; }
